@@ -50,7 +50,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,redux,vscode,github,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,redux,learn,github,git" /><br/>
 </div>
 
 <br/>

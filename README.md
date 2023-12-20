@@ -11,7 +11,7 @@
     
 <div align="left">
     
- 🔭 I’m currently working on **an e-commerce app**
+ 🔭 I’m currently working on **an admin dashboard**
  
  🌱 I’m currently going to learn **next js**
 

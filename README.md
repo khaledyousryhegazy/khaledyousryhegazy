@@ -11,7 +11,7 @@
     
 <div align="left">
     
- 🔭 I’m currently working on **an admin dashboard**
+ 🔭 I’m currently working on **admin**
  
  🌱 I’m currently going to learn **next js**
 
@@ -50,7 +50,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,redux,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,redux,toolkit,github,git,vscode" />
 </div>
 
 <br/>

@@ -56,7 +56,6 @@
 <br/>
 
 ---
-<h2 align="center">Statistics 📈 </h2>
 <p align="center">
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=khaledyousryhegazy&show_icons=true&theme=tokyonight" />     
 <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledyousryhegazy&show_icons=true&theme=tokyonight" />
@@ -65,7 +64,6 @@
 
 
 ---
-<h2 align="center">Contribution Graph 📊</h2>
 
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledyousryhegazy&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
 

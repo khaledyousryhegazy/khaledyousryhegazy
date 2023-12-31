@@ -50,20 +50,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,redux,json-server,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,github,git,vscode" />
 </div>
 
 <br/>
 
----
-<p align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=khaledyousryhegazy&show_icons=true&theme=tokyonight" />     
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledyousryhegazy&show_icons=true&theme=tokyonight" />
-<p/>
-
-
-
----
 
 [![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledyousryhegazy&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
 

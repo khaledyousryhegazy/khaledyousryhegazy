@@ -28,11 +28,6 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 
 <!-- About Section -->
  ## About me 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
- <br/>
-
-
 
 - 🔭 I’m currently working on **portfolio**
 
@@ -46,9 +41,6 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 
 - ⚡ Fun fact **I love anime and jokes :)**
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>

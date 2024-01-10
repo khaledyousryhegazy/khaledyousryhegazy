@@ -26,9 +26,6 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 </p>
 <br />
 
-<!-- About Section -->
- ## About me 
-
 - 🔭 I’m currently working on **portfolio**
 
 - 🌱 I’m currently learning **Next-js**
@@ -40,8 +37,6 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 - 📫 How to reach me **yousryk49@gmail.com**
 
 - ⚡ Fun fact **I love anime and jokes :)**
-
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 

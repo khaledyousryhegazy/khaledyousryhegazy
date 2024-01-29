@@ -26,17 +26,19 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 </p>
 <br />
 
-- 🔭 I’m currently working on **portfolio**
-
-- 🌱 I’m currently learning **Next-js**
+- 💻 I’m currently working as **Freelancer**
 
 - 👨‍💻 All of my projects are available
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **yousryk49@gmail.com**
+<br></br>
+## ✨ Fun Facts 
 
-- ⚡ Fun fact **I love anime and jokes :)**
+- One Piece is my favorite anime.
+- As a kid, I wanted to be rich.
+- I love joke and gym.
 
 <h3 align="left">Languages and Tools:</h3>
 

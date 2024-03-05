@@ -26,7 +26,7 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 </p>
 <br />
 
-- 💻 I’m currently working as **Freelancer**
+- 💻 I’m currently working in **Softa Solutions**
 
 - 👨‍💻 All of my projects are available
 

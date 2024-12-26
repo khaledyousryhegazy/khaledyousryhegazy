@@ -44,7 +44,7 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,mongodb,expressjs,redux,bootstrap,tailwind,figma,git,github,vscode" />
   </a>
 </p>
 

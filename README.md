@@ -1,7 +1,7 @@
 ### Hey, I'm Khaled 👋 
 <!-- Intro  -->
 <p>
-I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passionate about crafting digital experiences. 
+I'm a 22-year-old passionate front-end developer based in Egypt, and I'm passionate about crafting digital experiences. 
 </p>
 
 <br>
@@ -11,7 +11,7 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Khaled" />
  </a>
   
- <a href="https://www.linkedin.com/in/khalid-yousry-a35b15234/" target="_blank">
+ <a href="https://www.linkedin.com/in/khaled-yousry-a35b15234/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Khaled"/>
  </a>
   
@@ -19,7 +19,7 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Khaled"  />
   </a> 
   
- <a href="https://www.instagram.com/kha._.ledd/" target="_blank">
+ <a href="https://www.instagram.com/_kh.yo/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Khaled" />
  </a> 
  
@@ -44,7 +44,7 @@ I'm a 21-year-old passionate front-end developer based in Egypt, and I'm passion
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,mongodb,expressjs,redux,bootstrap,tailwind,figma,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,mongodb,expressjs,redux,bootstrap,tailwind,git,github,vscode" />
   </a>
 </p>
 

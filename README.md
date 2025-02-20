@@ -2,6 +2,7 @@
 <!-- Intro  -->
 <p>
 I'm a 22-year-old passionate front-end developer based in Egypt, and I'm passionate about crafting digital experiences. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledyousryhegazy&label=Profile%20views&color=0e75b6&style=flat" alt="khaledyousryhegazy" /> </p>
 </p>
 
 <br>

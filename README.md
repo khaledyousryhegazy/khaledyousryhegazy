@@ -18,7 +18,7 @@ If you want you can visit my [portfolio](https://my-portfolio-sepia-iota.vercel.
 - 🌎 I'm from Egypt
 - 🔥 Love programming, gaming, swimming, anime and gym
 - 🧠 Love sharing knowledge
-- 🌌 Passionate for astronomy
+- 🏎️ Passionate for formula 1
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via khaled4freelance@gmail.com || yousryk49@gmail.com
 

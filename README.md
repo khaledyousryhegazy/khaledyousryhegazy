@@ -1,30 +1,12 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=khaledyousryhegazy&style=flat-square&color=blueviolet">
-
-I'm a frontend developer!
-
-I've been working and studying technology since 2022, and during this time I worked with diverse types of projects like web programming and desktop programming
-
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
-
-If you want you can visit my [portfolio](https://my-portfolio-sepia-iota.vercel.app/)
-
-## 👨🏻‍💻 About me
-<br>
-
-<img src="./images/message.gif" width="300px" align="right">
-
-- 🌎 I'm from Egypt
-- 🔥 Love programming, gaming, swimming, anime and gym
-- 🧠 Love sharing knowledge
-- 🏎️ Passionate for formula 1
-- ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via khaled4freelance@gmail.com || yousryk49@gmail.com
+# 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=khaledyousryhegazy&style=flat-square&color=blueviolet">
 
 <br>
-<br>
-<br>
+Web developer with over 1 year of experience and more than 10 completed projects. Skilled in
+React.js and Next.js, and in creating responsive, user-focused web apps. I am passionate about writing
+clean code, learning continuously, and solving real-world problems.
+
 <br>
 <br>
 
@@ -42,6 +24,7 @@ If you want you can visit my [portfolio](https://my-portfolio-sepia-iota.vercel.
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=%CC6699)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2335495e.svg?style=for-the-badge&logo=bootstrap&logoColor=%234FC08D)
+![shadcn ui](https://img.shields.io/badge/shadcn%20ui-black.svg?style=for-the-badge&color=black&labelColor=black&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 <br/>
 

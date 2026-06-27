@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=khaledyousryhegazy&style=flat-square&color=blueviolet">
+# Hi, Say Bismillah :)) <img align="right" src="https://komarev.com/ghpvc/?username=khaledyousryhegazy&style=flat-square&color=blueviolet">
 
 <br>
 
